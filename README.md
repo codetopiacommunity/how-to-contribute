@@ -20,12 +20,15 @@ It's essential to note that this guide doesn't prescribe a rigid set of rules; i
 So you found a project you want to contribute to. Great! The first thing you should do is make a copy of the project. This is called **forking**. Forking is a way to make a copy of a repository under your own account. This allows you to make changes to the project without affecting the original project. It also allows you to make changes to the project without having to ask permission from the original project owner. You can fork a project by clicking the fork button in the top right corner of the project page.
 
 1. Fork the repo from the main account into your own account by clicking on **fork**.
+
 ![forking repo](/images/fork.png)
 
 2. Create the fork
+
 ![creating fork](/images/create-fork.png)
 
 3. After creating the fork, you will be redirected to your own forked repo. You can verify that you are in your own forked repo by checking the top left corner of the page. It should say your username instead of the main account's username and you should see a message that says **forked from ...** with the main account's username.
+
 ![forked repo](/images/forked-link.png)
 
 ## Clone the repo
@@ -33,6 +36,7 @@ So you found a project you want to contribute to. Great! The first thing you sho
 
 Now that you have a copy of the project under your own account, you can clone it to your local machine. Cloning is a way to download the project to your local machine.
 1. You can clone a project by clicking the green **Code** button, **SSH** and click the copy button to copy the URL.
+
 ![clone repo link](/images/code-url.png)
 
 2. After copying the URL, open your terminal and navigate to the directory where you want to clone the project. Then run the following command:
@@ -45,6 +49,7 @@ git clone <url>
 After successfully cloning the repo, you will need to create an upstream. An upstream is a way to connect your local repo to the original repo. This will allow you to pull in changes from the original repo into your local repo. But first, you will need to get the URL of the original repo.
 
 1. Go to the original repo. or if you are already in your forked repo, click on the **forked from ...** link in the top left corner of the page to go to the original repo and copy the URL. 
+
 ![original url link](/images/original-url-link.png)
 
 2. After copying the URL of the original repo, go to your terminal and navigate to the directory of the cloned repo. Then run the following command to create an upstream:
@@ -59,6 +64,7 @@ git remote add upstream <orignal_repo_url>
 git remote -v
 ```
 This will show you the origin and upstream URLs.
+
 ![remote urls](/images/remote-list.png)
 
 The origin URL is the URL of your forked repo and the upstream URL is the URL of the original repo.
@@ -89,6 +95,7 @@ git branch
 ```
 
 This will show you all the branches in the repo. The branch with the asterisk next to it is the branch you are currently in.
+
 ![branch list](/images/branch-list.png)
 
 ## Work on the project
