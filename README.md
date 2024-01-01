@@ -6,17 +6,17 @@ It's essential to note that this guide doesn't prescribe a rigid set of rules; i
 
 
 **Table of content**
-- [Pre-requisites](##pre-requisites)
-- [Contributing to the project](##contributing-to-the-project)
-    - [Make a copy first](###make-a-copy-first)
-    - [Clone the repo](###clone-the-repo)
-    - [Create an upstream](###create-an-upstream)
-    - [Check up on upstream](###check-up-on-upstream)
-    - [Create a branch](###create-a-branch)
-    - [Work on the project](###work-on-the-project)
-    - [Push to your origin](###push-to-your-origin)
-    - [Create pull request](###create-pull-request)
-- [Other resources](##other-resources)
+- [Pre-requisites](#pre-requisites)
+- [Contributing to the project](#contributing-to-the-project)
+    - [Make a copy first](#make-a-copy-first)
+    - [Clone the repo](#clone-the-repo)
+    - [Create an upstream](#create-an-upstream)
+    - [Check up on upstream](#check-up-on-upstream)
+    - [Create a branch](#create-a-branch)
+    - [Work on the project](#work-on-the-project)
+    - [Push to your origin](#push-to-your-origin)
+    - [Create pull request](#create-pull-request)
+- [Other resources](#other-resources)
 
 
 ## Pre-requisites
