@@ -16,6 +16,7 @@ It's essential to note that this guide doesn't prescribe a rigid set of rules; i
     - [Work on the project](#work-on-the-project)
     - [Push to your origin](#push-to-your-origin)
     - [Create pull request](#create-pull-request)
+- [Help](#help)
 - [Other resources](#other-resources)
 
 
@@ -161,6 +162,10 @@ After clicking the button, you will be redirected to the pull request page. Here
 After creating the pull request, you will be redirected to the pull request page. Here you can see the status of your pull request. If the pull request is approved, your changes will be merged into the main branch. If the pull request is not approved, you can make changes to your branch and push the changes to your origin. The pull request will automatically update with the new changes.
 
 Now you have successfully contributed to an open-source project. Congratulations!
+
+## Help
+
+If you need help with anything concerning this guide, you can join our [Discord community](https://discord.gg/qr7ncUrM6b) and ask for help in the `#vcs` channel. We're a friendly bunch, so don't be shy!
 
 ## Other resources
 - [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
